@@ -1,4 +1,4 @@
-## Hi there im Matthew Chafin👋
+## Hi There I'm Matthew Chafin👋
 
 I’m an analytics-focused professional with experience in program and financial analytics, currently building toward a career in aviation and airline analytics. My work centers on transforming complex operational and financial data into clear, decision-ready insights, particularly in environments involving multiple stakeholders, constrained resources, and high accountability.
 I’m especially interested in airline operations, procurement, and systems-driven analytics, where data intersects with cost control, reliability, and enterprise-scale decision support in complex operational environments.
