@@ -36,3 +36,6 @@ I transform complex operational and financial data into **clear, decision-ready 
 - Operational and procurement-focused dashboards  
 
 My goal is to apply analytics and systems thinking to help airlines make **better, faster, and more informed decisions**.
+
+📌 Featured analytics projects and dashboards are pinned below.
+
